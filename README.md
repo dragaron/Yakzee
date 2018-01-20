@@ -12,15 +12,15 @@ Yahtzee for the PS Vita; get the highest score to win
 
 #### CONTROLS  
 SQUARE: Enable/disable motion controls  
-&nbsp;&nbsp;When enabled, screen orientation changes automatically and a shaking gesture is required to roll  
-&nbsp;&nbsp;When disabled, use Right Analog (LEFT/RIGHT) to change screen orientation  
+&nbsp; &nbsp;When enabled, screen orientation changes automatically and a shaking gesture is required to roll  
+&nbsp; &nbsp;When disabled, use Right Analog (LEFT/RIGHT) to change screen orientation  
 L or R (hold/release), and shake gesture when motion controls are enabled: Roll dice  
 TOUCH: Touch dice to hold if you want to roll a 2nd or 3rd time  
-&nbsp;&nbsp;Touch/release open section on scorecard to submit score  
+&nbsp; &nbsp;Touch/release open section on scorecard to submit score  
 SELECT: Enter edit mode (adjust/change theme)  
-&nbsp;&nbsp;D-PAD: Select color (RGB) or alpha (A) to edit, or choose current theme  
-&nbsp;&nbsp;Left Analog LEFT/RIGHT: +/- 5 (0-255)  
-&nbsp;&nbsp;Press SELECT when done to save theme changes  
+&nbsp; &nbsp;D-PAD: Select color (RGB) or alpha (A) to edit, or choose current theme  
+&nbsp; &nbsp;Left Analog LEFT/RIGHT: +/- 5 (0-255)  
+&nbsp; &nbsp;Press SELECT when done to save theme changes  
 
 ### MISC  
 - Yakzee creates a "config.ini" file upon first startup which is used to store settings; do not modify this file  
