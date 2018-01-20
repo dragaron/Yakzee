@@ -23,7 +23,7 @@ SELECT: Enter edit mode (adjust/change theme)
 &nbsp; &nbsp;Press SELECT when done to save theme changes  
 
 ### MISC  
-- Yakzee creates a "config.ini" file upon first startup which is used to store settings; do not modify this file  
+- Yakzee creates a 'config.ini' file upon first startup which is used to store settings; do not modify this file  
 
 #### THANKS  
 To everyone in the scene that makes projects like this possible to do on the PS Vita
